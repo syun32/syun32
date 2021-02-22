@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=300&section=header&text=SihyunLee&animation=scaleIn&fontColor=000000&fontSize=90&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=300&section=header&text=SihyunLee&animation=scaleIn&fontColor=5E5E5E&fontSize=90&fontAlignY=50)
 
 <!--
 **syun98/syun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
