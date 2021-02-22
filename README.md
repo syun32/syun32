@@ -1,5 +1,5 @@
 <!-- SihyunLee -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=180&section=header&text=SihyunLee&animation=fadeIn&fontColor=7E7E7E&fontSize=80&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=SihyunLee&animation=fadeIn&fontColor=7E7E7E&fontSize=90&fontAlignY=50)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Techs that I've used</p>
