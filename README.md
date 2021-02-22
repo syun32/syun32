@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-홍태원 
+홍태원 병신
 <!--
 **syun98/syun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
