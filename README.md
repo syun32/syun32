@@ -24,7 +24,7 @@
 
 <p align="center">
     <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
-	<a href=""><img src="https://img.shields.io/badge/Git Blog-TIL-EEEEEE?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
+	<a href="https://syun98.github.io/TIL/"><img src="https://img.shields.io/badge/Git Blog-TIL-EEEEEE?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://www.instagram.com/s.yun.tudio/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
 
