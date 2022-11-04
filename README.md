@@ -1,7 +1,7 @@
 <!-- SihyunLee -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=SihyunLee&animation=fadeIn&fontColor=7E7E7E&fontSize=90&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Sihyun%20Lee&fontColor=666B79&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">Techs that I've used</p>
 
 <p align = "center">
@@ -25,7 +25,6 @@
 <p align="center">
     <a href="https://ionized-help-5cd.notion.site/_Portfolio-ef4a88f69e8647a3b0d2453921102895/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
     <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
-	<a href="https://syun32.github.io/TIL/"><img src="https://img.shields.io/badge/Git Blog-TIL-EEEEEE?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://www.instagram.com/s.yun.tudio/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
 
