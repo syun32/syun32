@@ -5,25 +5,30 @@
 <p align="center">Techs that I've used</p>
 
 <p align = "center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-F6C915?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-F6C915?style=flat-square&logo=Python&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
 <br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/AWS EC2-FF8C00?style=flat-square&logo=amazon&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS RDS-FF8C00?style=flat-square&logo=amazon&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Nexacro-E01F27?style=flat-square&logo=expertsexchange&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Androidstudio-68BC71?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS EC2-FF8C00?style=flat-square&logo=amazon&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS RDS-FF8C00?style=flat-square&logo=amazon&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
 </p>
 
 <br><br>
 <h3 align="center">🍀 About Me 🍀</h3><br>
 
 <p align="center">
-    <a href="https://ionized-help-5cd.notion.site/_Portfolio-ef4a88f69e8647a3b0d2453921102895/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
+    <a href="https://ionized-help-5cd.notion.site/_Portfolio-ef4a88f69e8647a3b0d2453921102895/"><img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/></a><br>
     <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://www.instagram.com/s.yun.tudio/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
