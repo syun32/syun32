@@ -2,25 +2,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Sihyun%20Lee&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
-<p align="center">Techs that I've used</p>
+<br>
 
 <p align = "center">
+  <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=CoffeeScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-F6C915?style=flat-square&logo=Python&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-<br>
-  <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Nexacro-E01F27?style=flat-square&logo=expertsexchange&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Androidstudio-68BC71?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AWS EC2-FF8C00?style=flat-square&logo=amazon&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS RDS-FF8C00?style=flat-square&logo=amazon&logoColor=white"/></a>&nbsp 
+<br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Tibero-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+<br>
+  <img src="https://img.shields.io/badge/AWS-FF8C00?style=flat-square&logo=amazon&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Notion-343434?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
 </p>
 
