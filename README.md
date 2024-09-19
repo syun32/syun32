@@ -24,7 +24,6 @@
 <h3 align="center">🍀 About Me 🍀</h3><br>
 
 <p align="center">
-    <a href="https://leesyun.notion.site/Lee-Sihyun-b6a7937df0994a51bfe9a5fd261e0411?pvs=4/"><img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/></a><br>
     <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://www.instagram.com/s.yun.tudio/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
