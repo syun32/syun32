@@ -30,6 +30,6 @@
 
 <br><br>
 <p align="center">
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgus9832"/>
+<!-- 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgus9832"/> -->
 	<img src="http://mazandi.herokuapp.com/api?handle=tlgus9832&theme=warm"/>
 </p>
