@@ -28,8 +28,7 @@
 	<a href="https://www.instagram.com/s.yun.tudio/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
 
-<br><br>
 <p align="center">
-<!-- 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgus9832"/> -->
-	<img src="http://mazandi.herokuapp.com/api?handle=tlgus9832&theme=warm"/>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgus9832"/>
+<!-- 	<img src="http://mazandi.herokuapp.com/api?handle=tlgus9832&theme=warm"/> -->
 </p>
